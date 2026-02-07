@@ -1,5 +1,5 @@
 # SQL_Tutorial_Project
-1. What is SQL and Database? 
+What is SQL and Database? 
 
 Answer: 
 SQL stands for structured query language which is used to communicate with data in relational database.
