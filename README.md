@@ -1,5 +1,4 @@
 # SQL_Tutorial_Project
-
 1. What is SQL and Database? 
 
 Answer: 
